@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">FitTrackerKotlin</string>
     <string name="name">Name</string>
+    <string name="avatar">avatar</string>
+    <string name="change_avatar">CHANGE AVATAR</string>
+    <string name="less_details">less details</string>
+    <string name="first_name">First name</string>
+
+
 </resources>

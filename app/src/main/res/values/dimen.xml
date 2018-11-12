@@ -4,4 +4,6 @@
     <dimen name="cardCornerRadius">8dp</dimen>
     <dimen name="card_elevation">0dp</dimen>
     <dimen name="default_margin">8dp</dimen>
+    <dimen name="progress_bar_avatars_expanded_card_size">200dp</dimen>
+
 </resources>
